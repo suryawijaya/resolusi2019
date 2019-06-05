@@ -1,5 +1,10 @@
 - java script
  *framework
+  - angular
+  - reach
  *struktur dasar
+ 
 - php framework
+ - laravel
+ - code igniter
 - vlog
