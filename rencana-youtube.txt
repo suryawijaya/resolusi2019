@@ -1,5 +1,7 @@
 - java script
  *framework
+  -vue
  *struktur dasar
 - php framework
+  -laravel
 - vlog
